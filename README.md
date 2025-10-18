@@ -12,17 +12,7 @@ https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e
 
 ## Installation
 
-To install and run this project on your local machine, follow these steps:
 
-1. **Clone Repository:**
-   ```bash
-   git clone https://github.com/punyakrit/Reachinbox-Assignment.git
 
-   cd into project
-
-   run `npm install`
-
-   run `npm run dev`
-
-   now open in browser 
+now open in browser 
    http://localhost:5173/
