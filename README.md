@@ -30,25 +30,7 @@ Integrations: Slack, Webhook.site, OpenAI API, Pinecone (for RAG)
 Deployment: Vercel (frontend), Render/Heroku (backend)
 
 ⚙️ Installation
-Clone Repository
-git clone https://github.com/your-username/reachinbox-onebox.git
-cd reachinbox-onebox
 
-Backend Setup
-npm install
-cp .env.example .env
-npm run dev
-
-Environment Variables (.env)
-IMAP_USER_1=
-IMAP_PASS_1=
-IMAP_USER_2=
-IMAP_PASS_2=
-ELASTIC_URL=http://localhost:9200
-OPENAI_KEY=
-SLACK_WEBHOOK=
-WEBHOOK_URL=
-PINECONE_KEY=
 
 Start Elasticsearch (Docker)
 docker compose up -d
@@ -95,5 +77,3 @@ https://documenter.getpostman.com/view/30630244/2sA2rCTMKr#433eb613-e405-4239-9e
 
 
 
-now open in browser 
-   http://localhost:5173/
